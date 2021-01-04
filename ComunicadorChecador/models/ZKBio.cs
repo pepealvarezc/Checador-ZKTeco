@@ -223,7 +223,7 @@ namespace ComunicadorChecador.models
                     Anio = dwYear,
                     Mes = dwMonth,
                     Dia = dwDay,
-                    Hora = dwHour,
+                    Hora = dwHour, 
                     Minuto = dwMinute,
                     Segundo = dwSecond
                 });
